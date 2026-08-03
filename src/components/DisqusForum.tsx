@@ -41,8 +41,8 @@ interface CommentItem {
 }
 
 export const DisqusForum: React.FC = () => {
-  // Clean shortname for Disqus integration
-  const shortname = 'nazrul-cdc-vouchers';
+  // Shortname as specified in the Disqus setup prompt
+  const shortname = 'https-nazrul-cdc-replicate-xnhb-vercel-app';
   const [scriptFailed, setScriptFailed] = useState(false);
 
   // Local interactive comments fallback
