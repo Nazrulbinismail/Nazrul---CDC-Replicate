@@ -1,0 +1,6 @@
+{
+  "name": "CDC Vouchers Singapore",
+  "description": "Singapore CDC Vouchers redemption and merchant locator web app with interactive voucher selection, merchant search, and QR code generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
